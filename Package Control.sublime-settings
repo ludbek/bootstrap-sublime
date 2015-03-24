@@ -1,0 +1,29 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AceJump",
+		"All Autocomplete",
+		"Block Cursor Everywhere",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Emmet",
+		"GitGutter",
+		"Origami",
+		"Package Control",
+		"SideBarEnhancements",
+		"Sublime Bookmarks",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pyflakes",
+		"Surround",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	],
+	"repositories":
+	[
+		"https://github.com/hahiserw/AceJump"
+	]
+}
