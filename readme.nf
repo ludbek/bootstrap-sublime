@@ -11,7 +11,11 @@ INSTALLATION
     2. install package controller
        follow the instructions at 'Package Controller's home page'[1].
 
+NOTE
+    this document is written in 'natural format'[2].
+
 [1] http://packagecontrol.io/installation
+[2] https://github.com/ludbek/natural-format
 
 
 
