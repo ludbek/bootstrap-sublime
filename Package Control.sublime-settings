@@ -6,7 +6,6 @@
 	"installed_packages":
 	[
 		"AceJump",
-		"All Autocomplete",
 		"Better CoffeeScript",
 		"Block Cursor Everywhere",
 		"BracketHighlighter",
@@ -21,6 +20,7 @@
 		"Seti_UI",
 		"SideBarEnhancements",
 		"Sublime Bookmarks",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
 		"SublimeLinter-pyflakes",
