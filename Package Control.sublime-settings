@@ -6,7 +6,6 @@
 	"installed_packages":
 	[
 		"AceJump",
-		"Better CoffeeScript",
 		"Block Cursor Everywhere",
 		"BracketHighlighter",
 		"BufferScroll",
@@ -17,7 +16,6 @@
 		"JavaScriptNext - ES6 Syntax",
 		"Origami",
 		"Package Control",
-		"Seti_UI",
 		"SideBarEnhancements",
 		"Sublime Bookmarks",
 		"SublimeCodeIntel",
